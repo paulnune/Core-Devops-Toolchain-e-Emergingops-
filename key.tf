@@ -1,0 +1,4 @@
+resource "aws_key_pair" "paulonunes" {
+  key_name   = "paulonunes"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDW5zubvnreqKQwY9bdV7ewCXGsG9ZnBULgU477fXDJmUOLeY+L0MRq8qjmlaL3YK9M3U+QmgfPIF7nJ8pfulqETgiGlNdmpd7VQx+u9++WxftzRTsdfKW9YvczGuiCvrbQUlKKJ6kU03Js68mhlfYbydga73bRwzvGa83AXI1A5mMK+lIRzcJohPIC6PecBHhG/7Juhs8WBbnPRFHVbDeStD+lRaFVB+Va4Aey9X1ritEiQe3L9FHmvzXEodjBmrQLF3/eKu8SU/aqgGX++wPycrY6yebYdrZpsgmRQLUQYiIiPA0K3q0lgxcTrhCYFi3zJgcDUq5Sp7iF3PHwWeovrwofYbAJZtGWZB+m1iULp1fWjgtgL7EanlAx8zNHjQ1GGuSEgE51WSip20Guz3CmK6f8gGkLarWRA5m/nfy6Ealj29LFKRxOIEVQjTqObWyvkCl3Wr6aV1WYEE8GlQQBn7y8xPiXsmaZBSLXNmd5JW52s0qod6hRI+wN5OWfWcs= paulonunes@MacBook-Air-de-Helena.local"
+}
