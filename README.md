@@ -20,9 +20,3 @@
     <img alt="Built with love" title="Love" src="https://forthebadge.com/images/badges/built-with-love.svg" height="35">
   </a>
 </p>
-
-<center>
-
-![Image alt text](/imagens/fiap.png)
-
-</center>
