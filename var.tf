@@ -1,4 +1,3 @@
-variable "security_group" {}
 variable "name" {}
 variable "environments" {}
 variable "region" {}
