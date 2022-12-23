@@ -1,0 +1,11 @@
+variable "security_group" {}
+variable "name" {}
+variable "environments" {}
+variable "region" {}
+variable "instance_type" {}
+variable "instance_name" {}
+variable "instance_ami" {}
+variable "ebs_root_type" {}
+variable "ebs_root_size_in_gb" {}
+variable "key_pair" {}
+variable "default_tags" {}
